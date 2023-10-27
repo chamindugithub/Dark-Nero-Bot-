@@ -25,6 +25,8 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/4JHczx?referralCode=9cWFS3)]
+
 
 
 
